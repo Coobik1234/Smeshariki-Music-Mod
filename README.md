@@ -1,34 +1,3 @@
-РАБОТАЕЕЕЕЕЕЕЕЕЕЕЕЕЕТ ЛЯМБДА СПАСИБООООООО
+Mindustry Mod that changes music to Smeshariki
 
-Тема идей - editor
-
-Напряженная тема - boss1
-
-Тема опасности - boss2
-
-Тема объяснений - menu
-
-Показ ракеты - land
-
-Темы открытий - launch
-
-Не может быть - fine
-
-Кузинатра - game1
-
-Великая стройка - game2
-
-Игромания - game3
-
-Космическая тема - game4
-
-Научная тема - game5
-
-Снотворец - game6
-
-В поисках брызгов огня - game7
-
-Пин чинит двигатель - game8
-
-Метеоритный дождь - game9
-
+Forked from https://github.com/Falkowitz/Smeshariki-Music-Pack
