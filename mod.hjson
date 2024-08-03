@@ -1,7 +1,7 @@
-name: "smp"
-displayName: "Smeshariki-Music-Pack"
+name: "SMM"
+displayName: "Smeshariki-Music-Mod"
 description: "Just replaces existing ost with ost from kikoriki"
-author: "Fitz"
+author: "Coobik1234"
 minGameVersion: "140"
 version: "1.0"
 hideBrowser: false
