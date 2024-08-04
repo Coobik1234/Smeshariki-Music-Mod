@@ -1,6 +1,6 @@
 name: "SMM"
 displayName: "Smeshariki-Music-Mod"
-description: "Just replaces existing ost with ost from kikoriki"
+description: "Just replaces existing Smeshariki"
 author: "Coobik1234"
 minGameVersion: "140"
 version: "1.0"
