@@ -1,6 +1,6 @@
-name: "SMM"
+name: "smm"
 displayName: "Smeshariki-Music-Mod"
-description: "Just replaces existing Smeshariki"
+description: "Just replaces existing music with Smeshariki"
 author: "Coobik1234"
 minGameVersion: "140"
 version: "1.0"
