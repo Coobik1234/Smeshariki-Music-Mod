@@ -1,7 +1,7 @@
-name: "smm"
-displayName: "Smeshariki-Music-Mod"
+name: "smeshariki-music-mod"
+displayName: "Smeshariki Music Mod"
 description: "Just replaces existing music with Smeshariki"
-author: "Coobik1234"
+author: Coobik1234
 minGameVersion: "140"
 version: "1.0"
 hideBrowser: false
